@@ -10,6 +10,11 @@
     "woff",
     "woff2"
   ],
+  "homepage": "https://aasaam.github.io/noto-font/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aasaam/noto-font.git"
+  },
   "authors": [
     {
       "name": "Muhammad Hussein Fattahizadeh",
