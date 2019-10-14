@@ -39,6 +39,14 @@
       main > div h3 {
         text-align: center;
       }
+      textarea {
+        border: 1px solid #eee;
+        background-color: #fafafa;
+        color: #111;
+        padding: 8px;
+        border-radius: 8px;
+        min-height: 192px;
+      }
     </style>
   </head>
   <body>
@@ -71,6 +79,8 @@
         <br>
         For usage is just using npm or github page.
       </p>
+      <textarea id="input" placeholder="Preview, پیش‌نمایش, معاينة">Preview, پیش‌نمایش, معاينة</textarea>
+      <p id="preview"></p>
     </header>
     <main>
       <div lang="en">
@@ -171,5 +181,13 @@
         </p>
       </div>
     </main>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        document.querySelector('#input').addEventListener("keyup", function () {
+          document.querySelector('#preview').innerText = this.value;
+        });
+        document.querySelector('#preview').innerText = document.querySelector('#input').value;
+      });
+    </script>
   </body>
 </html>
