@@ -1,0 +1,20 @@
+{
+  "name": "@aasaam/noto-font",
+  "version": "0.0.0",
+  "description": "modified and optimized of Google Noto font for modern web",
+  "keywords": [
+    "google",
+    "noto",
+    "arabic",
+    "persian",
+    "woff",
+    "woff2"
+  ],
+  "authors": [
+    {
+      "name": "Muhammad Hussein Fattahizadeh",
+      "email": "m@mhf.ir"
+    }
+  ],
+  "license": "OFL-1.1"
+}
