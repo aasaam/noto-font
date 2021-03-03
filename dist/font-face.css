@@ -3,46 +3,45 @@
   font-display: swap;
   font-weight: 300;
   src:
-    url('./aasaam-NotoSansDisplay-Light.woff2') format('woff2'),
-    url('./aasaam-NotoSansDisplay-Light.woff') format('woff'),
-    url('./aasaam-NotoSansDisplay-Light.ttf') format('ttf');
+    url('aasaamNotoSansDisplay-Light.woff2') format('woff2'),
+    url('aasaamNotoSansDisplay-Light.woff') format('woff'),
+    url('aasaamNotoSansDisplay-Light.ttf') format('ttf');
 }
 @font-face {
   font-family: 'aasaam-Noto';
   font-display: swap;
   font-weight: 400;
   src:
-    url('./aasaam-NotoSansDisplay-Regular.woff2') format('woff2'),
-    url('./aasaam-NotoSansDisplay-Regular.woff') format('woff'),
-    url('./aasaam-NotoSansDisplay-Regular.ttf') format('ttf');
+    url('aasaamNotoSansDisplay-Regular.woff2') format('woff2'),
+    url('aasaamNotoSansDisplay-Regular.woff') format('woff'),
+    url('aasaamNotoSansDisplay-Regular.ttf') format('ttf');
 }
 @font-face {
   font-family: 'aasaam-Noto';
   font-display: swap;
   font-weight: 500;
   src:
-    url('./aasaam-NotoSansDisplay-Medium.woff2') format('woff2'),
-    url('./aasaam-NotoSansDisplay-Medium.woff') format('woff'),
-    url('./aasaam-NotoSansDisplay-Medium.ttf') format('ttf');
+    url('aasaamNotoSansDisplay-Medium.woff2') format('woff2'),
+    url('aasaamNotoSansDisplay-Medium.woff') format('woff'),
+    url('aasaamNotoSansDisplay-Medium.ttf') format('ttf');
 }
 @font-face {
   font-family: 'aasaam-Noto';
   font-display: swap;
   font-weight: 700;
   src:
-    url('./aasaam-NotoSansDisplay-Bold.woff2') format('woff2'),
-    url('./aasaam-NotoSansDisplay-Bold.woff') format('woff'),
-    url('./aasaam-NotoSansDisplay-Bold.ttf') format('ttf');
+    url('aasaamNotoSansDisplay-Bold.woff2') format('woff2'),
+    url('aasaamNotoSansDisplay-Bold.woff') format('woff'),
+    url('aasaamNotoSansDisplay-Bold.ttf') format('ttf');
 }
-
 @font-face {
   font-family: 'aasaam-Noto';
   font-display: swap;
   font-weight: 300;
   src:
-    url('./aasaam-NotoSansArabicUI-Light.woff2') format('woff2'),
-    url('./aasaam-NotoSansArabicUI-Light.woff') format('woff'),
-    url('./aasaam-NotoSansArabicUI-Light.ttf') format('ttf');
+    url('aasaamNotoSansArabicUI-Light.woff2') format('woff2'),
+    url('aasaamNotoSansArabicUI-Light.woff') format('woff'),
+    url('aasaamNotoSansArabicUI-Light.ttf') format('ttf');
   unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
 }
 @font-face {
@@ -50,9 +49,9 @@
   font-display: swap;
   font-weight: 400;
   src:
-    url('./aasaam-NotoSansArabicUI-Regular.woff2') format('woff2'),
-    url('./aasaam-NotoSansArabicUI-Regular.woff') format('woff'),
-    url('./aasaam-NotoSansArabicUI-Regular.ttf') format('ttf');
+    url('aasaamNotoSansArabicUI-Regular.woff2') format('woff2'),
+    url('aasaamNotoSansArabicUI-Regular.woff') format('woff'),
+    url('aasaamNotoSansArabicUI-Regular.ttf') format('ttf');
   unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
 }
 @font-face {
@@ -60,9 +59,9 @@
   font-display: swap;
   font-weight: 500;
   src:
-    url('./aasaam-NotoSansArabicUI-Medium.woff2') format('woff2'),
-    url('./aasaam-NotoSansArabicUI-Medium.woff') format('woff'),
-    url('./aasaam-NotoSansArabicUI-Medium.ttf') format('ttf');
+    url('aasaamNotoSansArabicUI-Medium.woff2') format('woff2'),
+    url('aasaamNotoSansArabicUI-Medium.woff') format('woff'),
+    url('aasaamNotoSansArabicUI-Medium.ttf') format('ttf');
   unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
 }
 @font-face {
@@ -70,8 +69,8 @@
   font-display: swap;
   font-weight: 700;
   src:
-    url('./aasaam-NotoSansArabicUI-Bold.woff2') format('woff2'),
-    url('./aasaam-NotoSansArabicUI-Bold.woff') format('woff'),
-    url('./aasaam-NotoSansArabicUI-Bold.ttf') format('ttf');
+    url('aasaamNotoSansArabicUI-Bold.woff2') format('woff2'),
+    url('aasaamNotoSansArabicUI-Bold.woff') format('woff'),
+    url('aasaamNotoSansArabicUI-Bold.ttf') format('ttf');
   unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
 }
